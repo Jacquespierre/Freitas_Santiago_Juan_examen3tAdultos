@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Freitas Cuerdo, Santiago-Juan Examen3T Adultos</string>
+    <string name="add">Añadir</string>
+    <string name="close">Close</string>
+    <string name="confirm">Confirmar</string>
+    <string name="product_already_exists">Ese producto ya existe.</string>
+    <string name="delete_products">¿Eliminar productos?</string>
+    <string name="select_all">Todos</string>
+    <string name="delete">Eliminar</string>
+    <string name="title">Lista de la compra</string>
+    <string name="add_product">Añadir producto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="calculator">Calculadora</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="signin">Sign in</string>
+    <string name="correo_email">Email</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="oculta_contrasena">Oculta contrasena</string>
+    <string name="mostrar_contrasena">Mostrar Contrasena\t\t\t</string>
+    <string name="contador">Contador</string>
+    <string name="incrementar">Incrementar</string>
+    <string name="decrementar">Decrementar\t\t\t</string>
+    <string name="numeroContadores">Numero de contadores\t\t\t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="SegundoApartado1">Segundo Apartado</string>
+    <string name="PrimerApartado1">Primer Apartado</string>
+    <string name="TercerApartado1">Tercer Apartado</string>
+    <string name="Ganador">Ganador</string>
+    <string name="TresEnRaya">Tres En Raya</string>
+    <string name="perro">Perro</string>
+    <string name="boton_home">Boton Inicio</string>
+    <string name="archivo_boton_navegacion">Boton Navegacion Archivo</string>
+    <string name="animales">Animales</string>
+    <string name="animales_favoritos">Animales favoritos</string>>
+    <string name="global">Global: %1$s</string>
+
+    <string name="signed_clients">Clientes: %d</string>
+    <string name="ok">Ok</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="correctly_signed">Usuario registrado correctamente</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_already_exists">Usuario con mismo username registrado</string>
+    <string name="credentials_already_in_use">El nombre de usuario y/o email ya están en uso</string>
+    <string name="clients_management_option">Gestión clientes</string>
+    <string name="signin_clients_option">Registro clientes</string>
+
+
+
+
+
+
+
+
+
+
+    //Ejercicio 28
+    <string name="destination1">Dhaka</string>
+    <string name="destination2">Sundarbans</string>
+    <string name="destination3">Sonargaon</string>
+    <string name="destination4">Barisal</string>
+    <string name="destination5">Srimangal</string>
+    <string name="destination6">Chittagong</string>
+    <string name="destination7">Cox\'s Bazar</string>
+
+    <string name="description1">Dhaka is the capital city of Bangladesh, in southern Asia. Set beside the Buriganga River, it’s at the center of national government, trade and culture.\n\nThe 17th-century old city was the Mughal capital of Bengal, and many palaces and mosques remain. American architect Louis Khan’s National Parliament House complex typifies the huge, fast-growing modern metropolis.</string>
+    <string name="description2">Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India\'s state of West Bengal to the Baleswar River in Bangladesh\'s division of Khulna.</string>
+    <string name="description3">Sonargaon is a historic city in central Bangladesh. It corresponds to the Sonargaon Upazila of Narayanganj District in Dhaka Division. Sonargaon is one of the old capitals of the historic region of Bengal and was an administrative center of eastern Bengal. It was also a river port.</string>
+    <string name="description4">Barisal, officially known as Barishal, is a major city that lies on the banks of the Kirtankhola river in south-central Bangladesh. It is the largest city and the administrative headquarter of both Barisal District and Barisal Division. It is one of the oldest municipalities and river ports of the country.</string>
+    <string name="description5">Sreemangal has been nicknamed the tea capital of Bangladesh, due to the number of tea gardens in the area, and is the place of origin of the Seven Color Tea.\n\nThe Bangladesh Tea Research Institute in Sreemangal has made a number of contributions in evolving and standardising the quality of tea, and introducing its research findings to the tea industry of Bangladesh.[8] Pineapples from the Sreemangal area are known for their flavour and natural sweetness.</string>
+    <string name="description6">The Chittagong Hill Tracts is a region home to 11 different tribes who’s language, cultural history, dress attire and religion (which is Buddhist while the rest of Bangladesh is Islamic) differ significantly in comparison to the rest of the country. Unlike the signature surrounding flatlands, the landscape contains an array of plentiful rolling hills, lakes and waterfalls.</string>
+
+    <string name="user_image">User Image</string>
+
+    <string name="textoInicial">Pulsa el botón para tirar el dado</string>
+    <string name="dado">Dado</string>
+    <string name="cuenta_d">Cuenta %d</string>
+    <string name="registro">Registro</string>
+
+</resources>

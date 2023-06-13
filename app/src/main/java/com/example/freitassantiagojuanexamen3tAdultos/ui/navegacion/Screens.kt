@@ -43,5 +43,7 @@ sealed class Screens(val route: String){
     object Ejercicio38: Screens("Ejercicio 38")
     object Ejercicio39: Screens("Ejercicio 39")
     object Ejercicio40: Screens("Ejercicio 40")
+    object Ejercicio41: Screens("Ejercicio 41")
+    object Ejercicio42: Screens("Ejercicio 42")
 
 }

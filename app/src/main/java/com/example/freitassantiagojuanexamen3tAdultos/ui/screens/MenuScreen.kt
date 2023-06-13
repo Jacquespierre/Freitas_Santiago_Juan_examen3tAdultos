@@ -57,7 +57,9 @@ fun MenuScreen(navController: NavController) {
         Screens.Ejercicio37 to "Ejercicio LazyList con botón de imagen",
         Screens.Ejercicio38 to "Ejercicio LazyColumn con foto",
         Screens.Ejercicio39 to "Ejercicio Instagram",
-        Screens.Ejercicio40 to "Ejercicio ",
+        Screens.Ejercicio40 to "Ejercicio SignInBlock Examen 3T",
+        Screens.Ejercicio41 to "Ejercicio Modelo gimnasio",
+        Screens.Ejercicio42 to "Ejercicio Modelo meditacion",
 
     )
 

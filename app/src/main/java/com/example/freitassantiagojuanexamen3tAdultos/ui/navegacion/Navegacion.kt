@@ -25,7 +25,6 @@ import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio1Scree
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio21Screen.Ejercicio21Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio22Screen.Ejercicio22Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio23Screen.Ejercicio23Screen
-//import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio23Screen.navigation.Navigation
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio24Screen.Ejercicio24Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio25Screen.Ejercicio25Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio26Screen.Ejercicio26Screen
@@ -45,6 +44,8 @@ import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio37Scre
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio38Screen.Ejercicio38Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio39Screen.Ejercicio39Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio40Screen.Ejercicio40Screen
+import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio41Screen.Ejercicio41Screen
+import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio42Screen.Ejercicio42Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio4Screen.Ejercicio4Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio5Screen.Ejercicio5Screen
 import com.example.freitassantiagojuanexamen3tAdultos.ui.screens.Ejercicio8Screen.Ejercicio8Screen
@@ -192,6 +193,12 @@ fun Navegacion() {
         }
         composable (route = Screens.Ejercicio40.route) {
             Ejercicio40Screen(viewModel = ClientesViewModel())
+        }
+        composable (route = Screens.Ejercicio41.route) {
+            Ejercicio41Screen()
+        }
+        composable (route = Screens.Ejercicio42.route) {
+            Ejercicio42Screen()
         }
     }
 }
